@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "7726661811",
+    "firebase_url": "https://fir-firestore-chat-app-m-3d9ef.firebaseio.com",
+    "project_id": "fir-firestore-chat-app-m-3d9ef",
+    "storage_bucket": "fir-firestore-chat-app-m-3d9ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7726661811:android:0e13d2de8538289422b0c6",
+        "android_client_info": {
+          "package_name": "com.aaa.mychatoverview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7726661811-4k7gs5foeakjvei7qr6ari3j2bn58rm7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aaa.mychatoverview",
+            "certificate_hash": "64fbb558d722348117eb05a6d055ae8afdcb7f80"
+          }
+        },
+        {
+          "client_id": "7726661811-lftjngdgoqfnot25rgs63b0g84ll0snf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO0sRkQOdCgElfEgHzxTBB6bu7RKkJTLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7726661811-lftjngdgoqfnot25rgs63b0g84ll0snf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7726661811:android:38a2add228b7e59a22b0c6",
+        "android_client_info": {
+          "package_name": "com.example.firemessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7726661811-7fha6l1e7kl8p8ts914ak4j6bopop54s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firemessage",
+            "certificate_hash": "64fbb558d722348117eb05a6d055ae8afdcb7f80"
+          }
+        },
+        {
+          "client_id": "7726661811-lftjngdgoqfnot25rgs63b0g84ll0snf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO0sRkQOdCgElfEgHzxTBB6bu7RKkJTLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7726661811-lftjngdgoqfnot25rgs63b0g84ll0snf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
